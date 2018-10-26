@@ -1,0 +1,6 @@
+Initial text for commit for second folder
+		
+		Comments done
+		This is additional comment
+
+

@@ -1,0 +1,6 @@
+Initial text for commit for third folder
+		
+		Comments done
+		This is additional comment
+
+
